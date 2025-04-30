@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+28tech.com.vn	TRUE	/	FALSE	1999999999	PHPSESSID	e7d34eefebc739966114259eced718ab
+28tech.com.vn	TRUE	/	FALSE	1999999999	csrfToken	ea3e56bf60abb91d793ab541749b2655d955baf3316953fd99fd631e
+28tech.com.vn	TRUE	/	FALSE	1999999999	products_viewed	%5B63%2C62%2C57%2C58%2C59%2C61%2C60%2C56%2C55%2C54%5D
+
